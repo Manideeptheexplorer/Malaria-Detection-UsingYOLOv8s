@@ -1,0 +1,11 @@
+names:
+- red blood cell
+- leukocyte
+- trophozoite
+- ring
+- schizont
+- gametocyte
+nc: 6
+train: C:\Users\venka\Desktop\finalMiniProject\dataset\train\images
+val: C:\Users\venka\Desktop\finalMiniProject\dataset\val\images
+test: C:\Users\venka\Desktop\finalMiniProject\dataset\test\images
